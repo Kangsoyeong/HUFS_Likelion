@@ -1,1 +1,3 @@
-# Likelion_Assignments
+## 멋쟁이 사자처럼 세션 과제입니다.
+
+### Django
